@@ -1,6 +1,10 @@
-# 🌍 Tourist Explorer
+# 🌍 Travel Explore
 
-A **responsive web page** showcasing **top tourist places around the world** with a 🌟 **hero image**, 🖼 **image carousel**, 🟢 **navigation buttons**, and 📞 **contact info**.
+A **responsive front-end web application** for exploring **top travel destinations** with interactive features like:  
+- 🌟 **Live star ratings**  
+- 🍽 **Famous foods for each place**  
+- ⭐ **Favorites system**  
+- 📞 **Contact form**  
 
 Built with **HTML, CSS, and JavaScript**.
 
@@ -8,28 +12,25 @@ Built with **HTML, CSS, and JavaScript**.
 
 ## ✨ Features
 
-1. **🏖 Front Page Hero Section**
-   - Full-screen background image
-   - Overlay title, description, and **"Start Exploring"** button
-   - Attractive and user-friendly design
+1. **🗺 Destination Cards**
+   - Each card shows an image and name of the destination  
+   - Click **“🍽 Show Food”** to view famous foods  
+   - Click **⭐ Add to Favorites** to save your favorite places  
 
-2. **🧭 Navigation Buttons**
-   - Home, Destinations, About, Gallery
-   - Smooth scrolling to respective sections
-   - Easy to navigate
+2. **⭐ Live Star Rating**
+   - Rate destinations by clicking on stars directly  
+   - Interactive and dynamic  
 
-3. **🖼 Tourist Places Carousel**
-   - Showcases **8+ popular tourist destinations**
-   - Auto-scrolls horizontally
-   - Pause on hover
-   - Hover zoom effect on each image card
-   - Fully responsive for mobile devices
+3. **🍴 Food Recommendations**
+   - Shows a list of popular foods for each destination  
+   - Appears in the **Destination Details** section  
 
-4. **📞 Contact Details**
-   - Phone number and email address displayed clearly
+4. **📂 Favorites Section**
+   - View all your saved favorite destinations in a list  
 
-5. **➡️ Next Page Button**
-   - Link to another page for more content
+5. **📞 Contact Form**
+   - Users can send messages via a contact form  
+   - Email, phone, and address displayed clearly  
 
 ---
 
